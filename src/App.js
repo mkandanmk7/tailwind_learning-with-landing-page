@@ -1,8 +1,9 @@
+import Navbar from "./Components/Navbar";
 
 function App() {
   return (
     <>
-      <h3 className="text-4xl text-center">hello</h3>
+      <Navbar />
     </>
   );
 }
